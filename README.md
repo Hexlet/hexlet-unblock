@@ -29,7 +29,7 @@
 
 Мы рекомендуем использовать платные VPN, которые могут пригодиться для получения доступа к другим сайтам. Вот несколько вариантов:
 
-* [https://hi-l.eu/](https://hi-l.eu/)
+* [https://hi-l.im/](https://hi-l.im/)
 * [Proton VPN](https://protonvpn.com/)
 * [HideMyName](https://hidemy.name/)
 * [NordVPN](https://nordvpn.com/)
